@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">邮递员管理系统</string>
+    <string name="id">工号:</string>
+    <string name="name">姓名</string>
+    <string name="password">密 码:</string>
+    <string name="password02">确认密码:</string>
+    <string name="submit">注册</string>
+    <string name="express_id">快递单号</string>
+    <string name="sender">发件人</string>
+    <string name="receiver">收件人</string>
+    <string name="origin">始发地</string>
+    <string name="destination">目的地</string>
+    <string name="courier_id">快递员工号</string>
+    <string name="title_activity_show_info">ShowInfoActivity</string>
+    <string name="admin_title">系统中注册的快递员</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+</resources>
